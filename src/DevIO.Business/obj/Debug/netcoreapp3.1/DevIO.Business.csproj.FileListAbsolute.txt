@@ -1,0 +1,9 @@
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
