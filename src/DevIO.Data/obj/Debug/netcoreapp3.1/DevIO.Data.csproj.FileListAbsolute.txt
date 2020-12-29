@@ -1,0 +1,12 @@
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
