@@ -23,7 +23,5 @@ namespace DevIO.Business.Models
         /* EF Relation*/
 
         public Fornecedor Fornecedor { get; set; }
-
-
     }
 }

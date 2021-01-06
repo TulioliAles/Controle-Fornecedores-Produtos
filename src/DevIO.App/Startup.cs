@@ -1,3 +1,4 @@
+using AutoMapper;
 using DevIO.App.Data;
 using DevIO.Business.Interfaces;
 using DevIO.Data.Context;
@@ -39,6 +40,8 @@ namespace DevIO.App
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
+
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
