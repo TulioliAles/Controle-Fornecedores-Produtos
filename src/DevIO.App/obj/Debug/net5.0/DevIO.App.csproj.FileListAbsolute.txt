@@ -193,3 +193,4 @@ C:\work\dotnet\ControleFornecedorProduto\src\DevIO.App\obj\Debug\net5.0\Razor\Vi
 C:\work\dotnet\ControleFornecedorProduto\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\work\dotnet\ControleFornecedorProduto\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\work\dotnet\ControleFornecedorProduto\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\work\dotnet\ControleFornecedorProduto\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
